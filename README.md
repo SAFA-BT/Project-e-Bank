@@ -26,4 +26,4 @@ npm start
 * Safa BOUTGHANBOUT
 * Nada GAROUAT
 * Salma Sedrati
-* 5IIR-8 ; EMSI RABAT 2025 - 2026
+* 5IIR-8 ; EMSI-3 RABAT 2025 - 2026
