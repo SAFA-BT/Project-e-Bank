@@ -1,0 +1,15 @@
+# Java / Spring Boot
+backend/target/
+backend/.mvn/
+backend/.idea/
+backend/*.iml
+
+# React / Node
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env.local
+
+# Divers
+.DS_Store
+Thumbs.db

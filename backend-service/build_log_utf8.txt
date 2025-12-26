@@ -1,0 +1,25 @@
+﻿[INFO] Scanning for projects...
+[INFO] 
+[INFO] ---------------------< com.ebank:backend-service >----------------------
+[INFO] Building backend-service 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.4.1:clean (default-clean) @ backend-service ---
+[INFO] Deleting C:\Users\T14s\Downloads\backend-service\backend-service\target
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ backend-service ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.660 s
+[INFO] Finished at: 2025-12-24T15:53:46+01:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-resources-plugin:3.3.1:resources (default-resources) on project backend-service: filtering C:\Users\T14s\Downloads\backend-service\backend-service\src\main\resources\application.properties to C:\Users\T14s\Downloads\backend-service\backend-service\target\classes\application.properties failed with MalformedInputException: Input length = 1 -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
