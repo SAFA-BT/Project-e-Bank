@@ -22,8 +22,11 @@ cd frontend
 npm install
 npm start
 
-# 👥 Auteurs
+# 👥 Réalisé par :
 * Safa BOUTGHANBOUT
 * Nada GAROUAT
 * Salma SEDRATI
+# 👥 Encadré par :
+* Mr. Abdelilah Hssaini
+* 
 * 5IIR-8 ; EMSI-3 RABAT 2025 - 2026
