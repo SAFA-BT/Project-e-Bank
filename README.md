@@ -25,5 +25,5 @@ npm start
 # 👥 Auteurs
 * Safa BOUTGHANBOUT
 * Nada GAROUAT
-* Salma Sedrati
+* Salma SEDRATI
 * 5IIR-8 ; EMSI-3 RABAT 2025 - 2026
